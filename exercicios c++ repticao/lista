@@ -1,0 +1,10 @@
+1) Faça um algoritmo para ler base e altura de 5 triângulos e imprimir a sua 
+área.area= (base*altura)/2
+2) Faça um algoritmo para ler um número e exibir o seu fatorial.
+Ex: 3! = 1*2*3 = 6
+3) Faça um algoritmo para calcular um valor A elevado a um expoente B. 
+Os valores A e B deverão ser lidos. Não usar A** B.
+4) Faça um algoritmo para ler um valor x qualquer. Calcular e exibir o 
+valor de Y= (x+1)+(x+2)+(x+3)+(x+4)+(x+5)+...(x+100)
+5) Faça um algoritmo para somar os números pares < 1000 e ao final 
+exibir o resultado.

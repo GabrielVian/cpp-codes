@@ -1,0 +1,6 @@
+1) Imprimir os termos da série abaixo, até o número digitado pelo usuário.1, 2, 1, 4, 1, 6, 1, 8, 1, 10,....
+2) Ler um número e exibir a sua tabuada.Ex: 3 X 1 = 3 X 2 = 6...3 X 10 = 30
+3) Ler dois números (n1, n2) e imprimir os números do menor até o maior: n1,  n1+1, n1+2, .... n2Ex: n1=2n2=62, 3, 4, 5, 6
+4) Imprimir os termos da série abaixo, até o número digitado pelo usuário.1, 2, 4, 8, 16, 32, ....
+5) Calcule a somatória abaixo  e exiba Y:Y= 1  +  2  + ....  + 101!      2!              10!
+6) Ler um valor X e N. Calcular e exibir Y.Y = X -2X + 4X -6X + 8X -10X + ... NX.
